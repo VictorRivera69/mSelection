@@ -1,6 +1,6 @@
 # mSelection
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-mSelection-2f2f2f.svg?style=for-the-badge)](https://github.com/infin1tyy/mSelection)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-mSelection-2f2f2f.svg?style=for-the-badge)](https://github.com/VictorRivera69/mSelection)
 
 <!--
 Short description of your library, why it's useful, some examples, pictures or
@@ -31,7 +31,7 @@ Happy Pawning!
 Simply install to your project:
 
 ```bash
-sampctl package install infin1tyy/mSelection
+sampctl package install VictorRivera69/mSelection
 ```
 
 Include in your code and begin using the library:
